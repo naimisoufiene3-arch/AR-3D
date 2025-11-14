@@ -1,0 +1,18 @@
+{
+  "plats": [
+    {
+      "id": 1,
+      "nom": "VR Mobil",
+      "prix": 9.9,
+      "description": "Modèle VR Mobil pour démonstration",
+      "modele3D": "https://raw.githubusercontent.com/naimisoufiene3-arch/AR-3D/main/VR-Mobil.glb"
+    },
+    {
+      "id": 2,
+      "nom": "Pepperoni Pizza",
+      "prix": 14.9,
+      "description": "Pizza Pepperoni avec mozzarella et sauce tomate",
+      "modele3D": "https://raw.githubusercontent.com/naimisoufiene3-arch/AR-3D/main/Pepperoni%20pizza.glb"
+    }
+  ]
+}
